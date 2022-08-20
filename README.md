@@ -1,2 +1,2 @@
-# Code_Quiz
+# Javascript Quiz
 Web APIs challenge
