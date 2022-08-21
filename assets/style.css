@@ -50,4 +50,35 @@ body {
     text-align: center;
   }
   
+  /* Question Card Styling */
+  .choice-button {
+    width: 100%;
+    text-align: left;
+    margin: 5px;
+  }
   
+  #result-div {
+    display: none;
+  }
+  
+  /* Score Card Styling */
+  .inline-form {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  #initials {
+    width: 25%;
+    margin: 8px;
+    padding: 1vh;
+  }
+
+  /* Highscore Card Styling */
+  #back-button {
+    margin-right: 8px;
+  }
+  
+  .highscore-list {
+    padding-inline-start: 20px;
+  }
